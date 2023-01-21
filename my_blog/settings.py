@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'password_reset',
     'article',
     'userprofile',
 ]
@@ -125,3 +126,26 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, "static"),
 )
+
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
+
+#Django框架擅长的是对逻辑的处理，而对图片这类文件的处理则非常的耗时。
+#因此在实际的生产环境中（即产品上线之后），通常是有专门的Web服务器来处理文件的访问。
+
+'''
+以下为重置密码功能所需的邮箱设置
+'''
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+# SMTP服务器，改为你的邮箱的smtp!
+EMAIL_HOST = 'smtp.gmail.com'
+# 改为你自己的邮箱名！
+EMAIL_HOST_USER = 'lvguolty@gmail.com'
+# 你的邮箱密码(应用专用密码，不必是主账户真实密码)
+EMAIL_HOST_PASSWORD = 'fhyadszxkvmjybuz'
+# 发送邮件的端口
+EMAIL_PORT = 587
+# 是否使用 TLS
+EMAIL_USE_TLS = True
+# 默认的发件人
+DEFAULT_FROM_EMAIL = 'lty的博客 <lvguolty@gmail.com>'

@@ -9,6 +9,7 @@ from .models import ArticlePost
 import markdown
 # 引入刚才定义的ArticlePostForm表单类
 from .forms import ArticlePostForm
+from django.contrib.auth.decorators import login_required
 # 引入User模型
 from django.contrib.auth.models import User
 
@@ -71,7 +72,12 @@ def article_safe_delete(request, id):
         return redirect("article:article_list")
     else:
         return HttpResponse('POST request only!')
-
+'''
+#profile修改之前的article_create:
+#两点问题:  1. new_article.author = User.objects.get(id=1)强行把作者指定为id=1的用户，这显然是不对的。
+          2. 没有对用户的登录状态进行检查。
+#解决:     1. User.objects.get(id=request.user.id)
+          2. 添加装饰器login_required
 def article_create(request):
     if request.method == 'POST':
         article_post_form = ArticlePostForm(data=request.POST)
@@ -85,6 +91,25 @@ def article_create(request):
     else:
         article_post_form = ArticlePostForm()
         context = {'article_post_form':article_post_form}
+        return render(request, 'article/create.html', context)
+'''
+
+@login_required(login_url='/userprofile/login/')
+def article_create(request):
+
+    if request.method == 'POST':
+        article_post_form = ArticlePostForm(data=request.POST)
+        if article_post_form.is_valid():
+            new_article = article_post_form.save(commit=False)
+            #new_article.author = User.objects.get(id=1)
+            new_article.author = User.objects.get(id=request.user.id)
+            new_article.save()
+            return redirect("article:article_list")
+        else:
+            return HttpResponse('invalid form, please imput again!')
+    else:
+        article_post_form = ArticlePostForm()
+        context = {'article_post_form': article_post_form}
         return render(request, 'article/create.html', context)
 
 def article_update(request, id):
@@ -108,3 +133,4 @@ def article_update(request, id):
         article_post_form = ArticlePostForm()
         context = { 'article': article, 'article_post_form': article_post_form }
         return render(request, 'article/update.html', context)
+

@@ -115,6 +115,8 @@
 **14** - [用户的注册](https://github.com/stacklens/django_blog_tutorial/blob/master/md/14.用户的注册.md)
 
 - 注册表单 /  注册视图 / 模板和 url
+- 他妈的，用户名不能有空格，否则表单invalid
+- 有点问题，新注册的用户，退出后无法自己登录,已解决，原因是前端部分的login页面把多个按钮放在一个<div class="col-12">里面了，提交重置密码的div混在一起，对js理解太空白。
 
 **15** - [用户的删除](https://github.com/stacklens/django_blog_tutorial/blob/master/md/15.用户的删除.md)
 
@@ -133,6 +135,8 @@
 **18** - [上传头像](https://github.com/stacklens/django_blog_tutorial/blob/master/md/18.上传头像.md)
 
 - 必要配置 / 编写 MTV
+- 前端form表单那里<form ... enctype="multipart/form-data">{% csrf_token %}
+- 意思是把前面的加上<form method="post" action="." nctype="multipart/form-data">，而不是真的打三个点上去
 
 **19** - [文章分页](https://github.com/stacklens/django_blog_tutorial/blob/master/md/19.文章分页.md)
 
