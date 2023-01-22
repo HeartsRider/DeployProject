@@ -9,7 +9,7 @@ class ArticlePostForm(forms.ModelForm):
         # 指明数据模型来源
         model = ArticlePost
         # 定义表单包含的字段
-        fields = ('title', 'body')
+        fields = ('title', 'body', 'tags', 'avatar')
 '''
 代码中ArticlePostForm类继承了Django的表单类forms.ModelForm，
 并在类中定义了内部类class Meta（之前提到过，还记得吗），

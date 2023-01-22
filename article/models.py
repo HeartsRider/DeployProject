@@ -6,11 +6,20 @@ from django.utils import timezone
 #通过reverse()方法返回文章详情页面的url，实现了路由重定向。
 from django.urls import reverse
 #每当你修改了models.py文件，都需要用makemigrations和migrate这两条指令迁移数据。
+from taggit.managers import TaggableManager
+from PIL import Image
 
+class ArticleColumn(models.Model):
+    title = models.CharField(max_length=100, blank=True)
+    created = models.DateTimeField(default=timezone.now)
+    def __str__(self):
+        return self.title
 class ArticlePost(models.Model):
     #ArticlePost类定义了一篇文章所必须具备的要素：作者、标题、正文、创建时间以及更新时间。
     # 文章作者。参数 on_delete 用于指定数据删除的方式
     author = models.ForeignKey(User, on_delete = models.CASCADE)
+    #CASCADE: When the referenced object is deleted, also delete the objects that have references to it
+    # (when you remove a blog post for instance, you might want to delete comments as well). SQL equivalent: CASCADE.
     # 文章标题。models.CharField 为字符串字段，用于保存较短的字符串，比如标题
     title = models.CharField(max_length = 100)
     # 文章正文。保存大量文本使用 TextField
@@ -20,12 +29,40 @@ class ArticlePost(models.Model):
     # 文章更新时间。参数 auto_now=True 指定每次数据更新时自动写入当前时间
     updated = models.DateTimeField(auto_now = True)
     total_views = models.PositiveIntegerField(default=0)
+    # 文章标签
+    tags = TaggableManager(blank=True)
+    # 文章标题图
+    avatar = models.ImageField(upload_to='article/%Y%m%d/', blank=True)
+    # 注意上传地址中的%Y%m%d是日期格式化的写法。比如上传时间是2019年2月26日，则标题图会上传到media/article/20190226这个目录中。
+    column = models.ForeignKey(
+        ArticleColumn,
+        null=True,
+        blank=True,
+        on_delete=models.CASCADE,
+        related_name='article'
+    )
     # 内部类 class Meta 用于给 model 定义元数据
     class Meta:
         # ordering 指定模型返回的数据的排列顺序
         # -created表示将以创建时间的倒序排列，这里的创建时间就是上面写的created，这保证最新的文章总是在网页的最上方。
         # 注意ordering是元组，括号中只含一个元素时不要忘记末尾的逗号。
         ordering = ('-created', )
+
+    # 保存时处理图片
+    def save(self, *args, **kwargs):
+        # 调用原有的 save() 的功能
+        article = super(ArticlePost, self).save(*args, **kwargs)
+
+        # 固定宽度缩放图片大小
+        if self.avatar and not kwargs.get('update_fields'):
+            image = Image.open(self.avatar)
+            (x, y) = image.size
+            new_x = 400
+            new_y = int(new_x * (y / x))
+            resized_image = image.resize((new_x, new_y), Image.ANTIALIAS)
+            resized_image.save(self.avatar.path)
+
+        return article
     def __str__(self):
         #写一下魔术方法，方便获取标题
         return self.title

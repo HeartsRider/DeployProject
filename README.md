@@ -173,8 +173,14 @@
 **26** - [基于类的视图](https://github.com/stacklens/django_blog_tutorial/blob/master/md/26.基于类的视图.md)
 
 - 类视图简介 / 类视图与函数视图
+
 - 通用视图 / 动态过滤 / 在类视图中添加上下文
+
 - 混入类 / 详情页、编辑页视图
+
+- ```
+  ArticleListView里面def get也要加上去
+  ```
 
 **27** - [文章栏目](https://github.com/stacklens/django_blog_tutorial/blob/master/md/27.文章栏目.md)
 
@@ -186,20 +192,24 @@
 - 安装 Django-taggit
 - 修改模型 / 修改发表视图
 - 标签过滤
+- 很奇怪，到这里articlelist又不用类视图了
 
 **29** - [文章标题图](https://github.com/stacklens/django_blog_tutorial/blob/master/md/29.文章标题图.md)
 
 - 用 Pillow 处理图片 / 模板与测试
+- 给的标签更新功能代码有问题，原项目的最终代码也没有这部分，先跳过，睡觉了
 
 **30** - [富文本编辑器](https://github.com/stacklens/django_blog_tutorial/blob/master/md/30.富文本编辑器.md)
 
 - 安装 Django-ckeditor
 - 在后台使用 ckeditor / 代码高亮
 - 在前台使用 ckeditor / 宽度自适应
+- 评论形式的锦上添花，跳过
 
 **31** - [四个小功能](https://github.com/stacklens/django_blog_tutorial/blob/master/md/31.四个重要的小功能.md)
 
 - 回到顶部浮动按钮 / 矢量图标 / 页脚沉底 / 粘性侧边栏
+- 前端锦上添花，跳过
 
 **32** - [多级评论](https://github.com/stacklens/django_blog_tutorial/blob/master/md/32.多级评论.md)
 
@@ -238,6 +248,7 @@
 
 - 注册过滤器和标签
 - 更人性化的时间 / 简单标签 / 包含标签
+- 前端写逻辑py代码来过滤，跳过
 
 **39** - [点赞功能](https://github.com/stacklens/django_blog_tutorial/blob/master/md/39.点赞功能.md)
 
