@@ -25,5 +25,6 @@ urlpatterns = [
     #用户管理， 添加新APP要配置新的根路由
     path('userprofile/', include('userprofile.urls', namespace='userprofile')),
     path('password-reset/', include('password_reset.urls')),
+    path('comment/', include('comment.urls', namespace='comment')),
 ]
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

@@ -20,9 +20,7 @@
             后面的article_list是在app中的urls.py中定义的具体的路由地址-->
             <a class="nav-link" href="{% url 'article:article_list' %}">返回文章列表</a>
         </li>
-        <li class="nav-item">
-            <a class="nav-link" href="{% url 'article:article_create' %}">写新文章</a>
-        </li>
+
           <!-- Django的 if 模板语句 -->
         {% if user.is_authenticated %}
 {#            这里使用了新的模板语法：{% if ... %}，用来判断用户是否已经登录：#}
@@ -36,8 +34,10 @@
                   {{ user.username }}
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
                   <a class="dropdown-item" href='{% url "userprofile:edit" user.id %}'>个人信息</a>
                     <!-- 新增 -->
+                <a class="dropdown-item" href="{% url 'article:article_create' %}">写新文章</a>
                   <a class="dropdown-item" href="#" onclick="user_delete()">删除用户</a>
                   <a class="dropdown-item" href="{% url "userprofile:logout" %}">退出登录</a>
 

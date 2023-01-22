@@ -3,6 +3,8 @@ from django.db import models
 from django.contrib.auth.models import User
 # timezone 用于处理时间相关事务。
 from django.utils import timezone
+#通过reverse()方法返回文章详情页面的url，实现了路由重定向。
+from django.urls import reverse
 #每当你修改了models.py文件，都需要用makemigrations和migrate这两条指令迁移数据。
 
 class ArticlePost(models.Model):
@@ -17,7 +19,7 @@ class ArticlePost(models.Model):
     created = models.DateTimeField(default = timezone.now)
     # 文章更新时间。参数 auto_now=True 指定每次数据更新时自动写入当前时间
     updated = models.DateTimeField(auto_now = True)
-
+    total_views = models.PositiveIntegerField(default=0)
     # 内部类 class Meta 用于给 model 定义元数据
     class Meta:
         # ordering 指定模型返回的数据的排列顺序
@@ -27,6 +29,8 @@ class ArticlePost(models.Model):
     def __str__(self):
         #写一下魔术方法，方便获取标题
         return self.title
+    def get_absolute_url(self):
+        return reverse('article:article_detail', args=[self.id])
 # Create your models here.
 '''
     数据库中有各种各样的数据表，有时候几张表的数据是互相关联的。
