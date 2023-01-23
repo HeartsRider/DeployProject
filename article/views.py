@@ -1,10 +1,5 @@
 #基于类视图
-# from django.shortcuts import render
-# Create your views here.
 from django.http import HttpResponse
-from django.shortcuts import render
-from django.shortcuts import redirect
-from .models import ArticlePost
 # 引入markdown模块
 import markdown
 # 引入刚才定义的ArticlePostForm表单类
@@ -17,12 +12,16 @@ from django.core.paginator import Paginator
 # 引入 Q 对象
 from django.db.models import Q
 from comment.models import Comment
-
 from django.views.generic import ListView
 from django.views.generic import DetailView
 from django.views.generic import CreateView
 from .models import ArticleColumn
 from comment.forms import CommentForm
+from django.shortcuts import render, redirect
+from django.views import View
+from django.views.generic import ListView
+from django.contrib.auth.mixins import LoginRequiredMixin
+from article.models import ArticlePost
 class ContextMixin:
     def get_context_data(self, **kwargs):
         # 获取原有的上下文
@@ -220,4 +219,3 @@ def article_update(request, id):
             'columns': columns,
         }
         return render(request, 'article/update.html', context)
-

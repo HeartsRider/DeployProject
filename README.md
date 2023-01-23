@@ -234,6 +234,7 @@
 
 - 本地登录 / 美化模板
 - GitHub 登录 / allauth 配置项
+- 感觉意义不大，跳过
 
 **36** - [自动化测试](https://github.com/stacklens/django_blog_tutorial/blob/master/md/36.自动化测试.md)
 

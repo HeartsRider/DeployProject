@@ -14,7 +14,7 @@ urlpatterns = [
     path('article-detail/<int:id>/', views.article_detail, name='article_detail'),
     # path(route, view, kwargs=None, name=None)
     #The view argument is a view function or the result of as_view() for class-based views.
-    # It can also be an django.urls.include().
+    # It can also be an django.urls.py.include().
     #path('article-delete/<int:id>/', views.article_delete, name = 'article_delete'),
     path('article-safe-delete/<int:id>/', views.article_safe_delete, name ='article_safe_delete'),
     path('article-create/', views.article_create, name ='article_create'),

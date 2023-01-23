@@ -4,6 +4,8 @@ from django.http import HttpResponse
 from article.models import ArticlePost
 from .forms import CommentForm
 from .models import Comment
+from notifications.signals import notify
+from django.contrib.auth.models import User
 
 # Create your views here.
 @login_required(login_url='/userprofile/login/')
@@ -26,8 +28,26 @@ def post_comment(request, article_id, parent_comment_id=None):
                 # 被回复人
                 new_comment.reply_to = parent_comment.user
                 new_comment.save()
+                # 新增代码，给其他用户发送通知(除了superuser以外。用户之间可以互相评论，因此需要发送通知。if语句是为了防止管理员收到重复的通知。)
+                if not parent_comment.user.is_superuser:
+                    notify.send(
+                        request.user,
+                        recipient=parent_comment.user,
+                        verb='回复了你',
+                        target=article,
+                        action_object=new_comment,
+                    )
                 return HttpResponse('200 OK')
             new_comment.save()
+            # 新增代码，给管理员发送通知（普通用户回复时给管理员发送通知。）
+            if not request.user.is_superuser:
+                notify.send(
+                    request.user,
+                    recipient=User.objects.filter(is_superuser=1),
+                    verb='回复了你',
+                    target=article,
+                    action_object=new_comment,
+                )
             return redirect(article)
         else:
             return HttpResponse('评论表单内容有误，请重新填写')
