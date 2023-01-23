@@ -229,6 +229,7 @@
 
 - 理解锚点
 - html 拼接 / 视图拼接 / 流动的数据 / 三元运算符
+- 做了前两个，html拼接和视图拼接
 
 **35** - [第三方登录](https://github.com/stacklens/django_blog_tutorial/blob/master/md/35.第三方登录.md)
 

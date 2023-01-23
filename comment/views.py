@@ -48,7 +48,10 @@ def post_comment(request, article_id, parent_comment_id=None):
                     target=article,
                     action_object=new_comment,
                 )
-            return redirect(article)
+            # 新增代码，添加锚点
+            redirect_url = article.get_absolute_url() + '#comment_elem_' + str(new_comment.id)
+            # 修改redirect参数
+            return redirect(redirect_url)
         else:
             return HttpResponse('评论表单内容有误，请重新填写')
     elif request.method == 'GET':
