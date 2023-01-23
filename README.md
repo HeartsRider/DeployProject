@@ -258,6 +258,7 @@
 
 - 实现逻辑的探讨 / LocalStorage 介绍
 - JS 与 Ajax / 利用调试接口
+- 鸡肋，主要工作在前端，不过localstorage和cession好像有点用，先跳过了，第二轮再弄
 
 **40** - [将项目部署到云服务器](https://github.com/stacklens/django_blog_tutorial/blob/master/md/40.将项目部署到云服务器.md)
 

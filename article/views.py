@@ -22,6 +22,7 @@ from django.views import View
 from django.views.generic import ListView
 from django.contrib.auth.mixins import LoginRequiredMixin
 from article.models import ArticlePost
+from django.shortcuts import get_object_or_404
 class ContextMixin:
     def get_context_data(self, **kwargs):
         # 获取原有的上下文
@@ -112,7 +113,8 @@ class ArticleDetailView(DetailView):
 
 def article_detail(request, id):
     #意思是在所有文章中，取出id值相符合的唯一的一篇文章。
-    article = ArticlePost.objects.get(id = id)
+    # article = ArticlePost.objects.get(id=id)
+    article = get_object_or_404(ArticlePost, id=id)
     article.total_views += 1
     article.save(update_fields=['total_views'])
     # 将markdown语法渲染成html样式,将Markdown语法书写的文章渲染为HTML文本

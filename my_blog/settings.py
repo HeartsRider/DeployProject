@@ -185,3 +185,30 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 # 默认的发件人
 DEFAULT_FROM_EMAIL = 'lty的博客 <lvguolty@gmail.com>'
+
+#日志
+import os
+#第一个简单配置的loggers
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'handlers': {
+        'file': {
+            'level': 'INFO',
+            'class': 'logging.FileHandler',
+            #新增内容：分割日志只保存固定天数，这里是5天，避免占用过多存储资源
+            #但是需要用python manage.py runserver --noreload启动服务器避免django重载器和日志分割功能冲突
+            # 'class': 'logging.handlers.TimedRotatingFileHandler',
+            # 'when': 'midnight',
+            # 'backupCount': 5,
+            'filename': os.path.join(BASE_DIR, 'logs/debug.log'),
+        },
+    },
+    'loggers': {
+        'django': {
+            'handlers': ['file'],
+            'level': 'INFO',
+            'propagate': True,
+        },
+    },
+}
