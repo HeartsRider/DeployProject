@@ -204,12 +204,14 @@
 - 安装 Django-ckeditor
 - 在后台使用 ckeditor / 代码高亮
 - 在前台使用 ckeditor / 宽度自适应
-- 评论形式的锦上添花，跳过
+- 评论形式的锦上添花，跳过，
+- 多级评论需要这个，做了算了
+- 
 
 **31** - [四个小功能](https://github.com/stacklens/django_blog_tutorial/blob/master/md/31.四个重要的小功能.md)
 
 - 回到顶部浮动按钮 / 矢量图标 / 页脚沉底 / 粘性侧边栏
-- 前端锦上添花，跳过
+- 前端锦上添花，跳过，
 
 **32** - [多级评论](https://github.com/stacklens/django_blog_tutorial/blob/master/md/32.多级评论.md)
 

@@ -22,6 +22,7 @@ from django.views.generic import ListView
 from django.views.generic import DetailView
 from django.views.generic import CreateView
 from .models import ArticleColumn
+from comment.forms import CommentForm
 class ContextMixin:
     def get_context_data(self, **kwargs):
         # 获取原有的上下文
@@ -127,8 +128,10 @@ def article_detail(request, id):
                          ])
 
     comments = Comment.objects.filter(article=id)
+    # 引入评论表单
+    comment_form = CommentForm()
     article.body = md.convert(article.body)
-    context = {'article': article, 'toc': md.toc, 'comments': comments}
+    context = {'article': article, 'toc': md.toc, 'comments': comments, 'comment_form':comment_form}
     return render(request, 'article/detail.html', context)
 
 def article_safe_delete(request, id):
