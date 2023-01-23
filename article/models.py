@@ -68,6 +68,14 @@ class ArticlePost(models.Model):
         return self.title
     def get_absolute_url(self):
         return reverse('article:article_detail', args=[self.id])
+    def was_created_recently(self):
+        # 若文章是"最近"发表的，则返回 True
+        diff = timezone.now() - self.created
+        #if diff.days <= 0 and diff.seconds < 60:
+        if diff.days == 0 and  0 <= diff.seconds < 60:
+            return True
+        else:
+            return False
 # Create your models here.
 '''
     数据库中有各种各样的数据表，有时候几张表的数据是互相关联的。
