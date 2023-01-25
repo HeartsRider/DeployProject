@@ -25,7 +25,7 @@ SECRET_KEY = 'm(&1_@b(^yyvg^6^iuyh#kver2m6&%pkp&0-l1+_2-%a#i6%xt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['.lvguoBlog.com','121.43.189.115']
+ALLOWED_HOSTS = ['.lvguoBlog.com','121.43.189.115','127.0.0.1']
 
 # 静态文件收集目录
 STATIC_ROOT = os.path.join(BASE_DIR, 'collected_static')

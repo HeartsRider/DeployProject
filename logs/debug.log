@@ -1,0 +1,51 @@
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Bad Request: /article/article-list/
+"GET /article/article-list/ HTTP/1.1" 400 26
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Bad Request: /article/article-list/
+"GET /article/article-list/ HTTP/1.1" 400 26
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Bad Request: /admin/
+"GET /admin/ HTTP/1.1" 400 26
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Bad Request: /admin/
+"GET /admin/ HTTP/1.1" 400 26
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject_copy\my_blog\settings.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject_copy\my_blog\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 9400
+"GET /article/article-list/ HTTP/1.1" 200 15186
+Not Found: /static/md_css/monokai.css
+Not Found: /static/bootstrap/css/bootstrap.min.css
+"GET /static/md_css/monokai.css HTTP/1.1" 404 77
+"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 404 77
+Not Found: /static/jquery/jquery-3.3.1.js
+Not Found: /static/layer/layer.js
+"GET /static/layer/layer.js HTTP/1.1" 404 77
+"GET /static/jquery/jquery-3.3.1.js HTTP/1.1" 404 77
+Not Found: /static/bootstrap/js/bootstrap.min.js
+Not Found: /media/article/20230123/Screenshot_20221226_121920.png
+"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 404 77
+Not Found: /media/article/20230123/Screenshot_20230122_044507.png
+"GET /media/article/20230123/Screenshot_20221226_121920.png HTTP/1.1" 404 77
+"GET /media/article/20230123/Screenshot_20230122_044507.png HTTP/1.1" 404 77
+Not Found: /media/article/20230123/0bd162d9f2d3572c629a027e8313632762d0c31c.webp
+"GET /media/article/20230123/0bd162d9f2d3572c629a027e8313632762d0c31c.webp HTTP/1.1" 404 77
+"GET /article/article-detail/39/ HTTP/1.1" 200 13273
+Not Found: /static/bootstrap/css/bootstrap.min.css
+Not Found: /static/md_css/monokai.css
+"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 404 77
+"GET /static/md_css/monokai.css HTTP/1.1" 404 77
+Not Found: /static/ckeditor/ckeditor-init.js
+"GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 404 77
+Not Found: /static/ckeditor/ckeditor/ckeditor.js
+Not Found: /static/jquery/jquery-3.3.1.js
+Not Found: /static/layer/layer.js
+"GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 404 77
+Not Found: /static/bootstrap/js/bootstrap.min.js
+"GET /static/jquery/jquery-3.3.1.js HTTP/1.1" 404 77
+"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 404 77
+"GET /static/layer/layer.js HTTP/1.1" 404 77

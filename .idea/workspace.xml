@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6d0c5a-a5bb-45eb-aee9-24d74d6a4720" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/migrations/0002_articlepost_total_views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/migrations/0003_auto_20230123_0001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/migrations/0004_articlepost_tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/migrations/0005_articlepost_avatar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment/migrations/0002_auto_20230123_1136.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment/migrations/0003_auto_20230123_1154.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userprofile/migrations/0001_initial.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +42,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674617742720</updated>
-      <workItem from="1674617744295" duration="1053000" />
+      <workItem from="1674617744295" duration="2146000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
