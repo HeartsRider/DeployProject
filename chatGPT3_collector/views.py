@@ -9,7 +9,6 @@ from .forms import QueryPostForm
 from django.contrib.auth.models import User
 
 import openai
-# openai.api_key = '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'
 
 #payload = '使用SwiftUI写一个登陆界面'
 
