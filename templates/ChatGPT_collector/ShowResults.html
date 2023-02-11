@@ -1,0 +1,20 @@
+<!-- extends表明此页面继承自 base.html 文件 -->
+{% extends "base_chatGPTpage.html" %} {% load staticfiles %}
+<!-- 写入 base.html 中定义的 title -->
+{% block title %} 提交问题 {% endblock title %}
+<!-- 写入 base.html 中定义的 content -->
+{% block content %}
+<!-- 写文章表单 -->
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <p>{{ payload }}</p>
+            <p>{{ answer }}</p>
+        </div>
+    </div>
+</div>
+{% endblock content %}
+
+
+
+

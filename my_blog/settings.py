@@ -23,12 +23,11 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'm(&1_@b(^yyvg^6^iuyh#kver2m6&%pkp&0-l1+_2-%a#i6%xt'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['.lvguoBlog.com','121.43.189.115']
+# ALLOWED_HOSTS = ['.lvguoBlog.com','121.43.189.115']
+ALLOWED_HOSTS = []
 
-# 静态文件收集目录
-STATIC_ROOT = os.path.join(BASE_DIR, 'collected_static')
 # Application definition
 
 INSTALLED_APPS = [
@@ -47,6 +46,7 @@ INSTALLED_APPS = [
     'ckeditor',
     'notifications',
     'notice',
+    'chatGPT3_collector',
 ]
 
 MIDDLEWARE = [
@@ -87,10 +87,13 @@ WSGI_APPLICATION = 'my_blog.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-    }
+        'NAME': os.path.join(BASE_DIR, 'db_new.sqlite3'),
+    },
 }
 
+# # 连接mongodb数据库
+# import mongoengine
+# mongoengine.connect('ChatGPT_results_db', host='127.0.0.1', port=27017, alias='chatGPT_mongo')
 
 # Password validation
 # https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators

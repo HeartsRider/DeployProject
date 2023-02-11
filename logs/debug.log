@@ -1,0 +1,2031 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\my_blog\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2718
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2769
+"GET /article/article-list/ HTTP/1.1" 200 13495
+"GET /static/md_css/monokai.css HTTP/1.1" 200 4707
+"GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+"GET /media/article/20230123/Screenshot_20230122_044507.png HTTP/1.1" 200 30004
+"GET /media/article/20230123/Screenshot_20221226_121920.png HTTP/1.1" 200 185560
+"GET /media/article/20230123/0bd162d9f2d3572c629a027e8313632762d0c31c.webp HTTP/1.1" 200 47212
+"GET /static/layer/layer.js HTTP/1.1" 200 22739
+"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 51045
+"GET /static/jquery/jquery-3.3.1.js HTTP/1.1" 200 282113
+"GET /static/layer/theme/default/layer.css?v=3.5.1 HTTP/1.1" 200 14271
+"GET /article/article-detail/40/ HTTP/1.1" 200 73634
+"GET /static/ckeditor/ckeditor/plugins/smiley/images/sad_smile.png HTTP/1.1" 200 1115
+"GET /static/ckeditor/ckeditor/plugins/smiley/images/angry_smile.png HTTP/1.1" 200 1220
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\my_blog\settings.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\my_blog\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /ChatGPT_collector
+"GET /ChatGPT_collector HTTP/1.1" 404 2905
+Not Found: /ChatGPT_collector/
+"GET /ChatGPT_collector/ HTTP/1.1" 404 2999
+Not Found: /ChatGPT_collector
+"GET /ChatGPT_collector HTTP/1.1" 404 2905
+"GET /ChatGPT_collector/ChatGPT_collector HTTP/1.1" 301 0
+"GET /ChatGPT_collector/ChatGPT_collector/ HTTP/1.1" 500 59
+"GET /ChatGPT_collector/ChatGPT_collector/ HTTP/1.1" 500 59
+C:\Users\LTY\AppData\Local\Programs\Python\Python37\Lib\site-packages\django\views\debug.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /ChatGPT_collector/ChatGPT_collector/
+"GET /ChatGPT_collector/ChatGPT_collector/ HTTP/1.1" 404 3063
+Not Found: /ChatGPT_collector/ChatGPT_collector/
+"GET /ChatGPT_collector/ChatGPT_collector/ HTTP/1.1" 404 3063
+Internal Server Error: /ChatGPT_collector/ChatGPT_collector_page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\mongoengine\base\document.py", line 81, in __init__
+    "Instantiating a document with positional arguments is not "
+TypeError: Instantiating a document with positional arguments is not supported. Please use `field_name=value` keyword arguments.
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 73419
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /ChatGPT_collector/ChatGPT_collector_page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\mongoengine\base\document.py", line 81, in __init__
+    "Instantiating a document with positional arguments is not "
+TypeError: Instantiating a document with positional arguments is not supported. Please use `field_name=value` keyword arguments.
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 73554
+Internal Server Error: /ChatGPT_collector/ChatGPT_collector_page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\mongoengine\base\document.py", line 81, in __init__
+    "Instantiating a document with positional arguments is not "
+TypeError: Instantiating a document with positional arguments is not supported. Please use `field_name=value` keyword arguments.
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 73554
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /ChatGPT_collector/ChatGPT_collector_page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\mongoengine\base\document.py", line 81, in __init__
+    "Instantiating a document with positional arguments is not "
+TypeError: Instantiating a document with positional arguments is not supported. Please use `field_name=value` keyword arguments.
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 73554
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /ChatGPT_collector/ChatGPT_collector_page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\mongoengine\base\document.py", line 81, in __init__
+    "Instantiating a document with positional arguments is not "
+TypeError: Instantiating a document with positional arguments is not supported. Please use `field_name=value` keyword arguments.
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 73554
+Internal Server Error: /ChatGPT_collector/ChatGPT_collector_page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\mongoengine\base\document.py", line 81, in __init__
+    "Instantiating a document with positional arguments is not "
+TypeError: Instantiating a document with positional arguments is not supported. Please use `field_name=value` keyword arguments.
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 73554
+Internal Server Error: /ChatGPT_collector/ChatGPT_collector_page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\mongoengine\base\document.py", line 81, in __init__
+    "Instantiating a document with positional arguments is not "
+TypeError: Instantiating a document with positional arguments is not supported. Please use `field_name=value` keyword arguments.
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 73554
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /ChatGPT_collector/ChatGPT_collector_page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\mongoengine\base\document.py", line 81, in __init__
+    "Instantiating a document with positional arguments is not "
+TypeError: Instantiating a document with positional arguments is not supported. Please use `field_name=value` keyword arguments.
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 73554
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\my_blog\settings.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\my_blog\settings.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\my_blog\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /ChatGPT_collector/ChatGPT_collector_page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\deprecation.py", line 96, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\middleware\clickjacking.py", line 26, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: 'ChatGPTRequestorModel' object has no attribute 'get'
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 66011
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /ChatGPT_collector/ChatGPT_collector_page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\deprecation.py", line 96, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\middleware\clickjacking.py", line 26, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: 'ChatGPTRequestorModel' object has no attribute 'get'
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 66011
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /ChatGPT_collector/ChatGPT_collector_page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\deprecation.py", line 96, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\middleware\clickjacking.py", line 26, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: 'ChatGPTRequestorModel' object has no attribute 'get'
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 66011
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3183
+"GET /static/layer/layer.js HTTP/1.1" 200 22739
+"GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 51045
+"GET /static/jquery/jquery-3.3.1.js HTTP/1.1" 200 282113
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 4
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3183
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3314
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3314
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3314
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 59
+Watching for file changes with StatReloader
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3314
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 59
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3314
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 59
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3314
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 59
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3314
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 59
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3314
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 59
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3314
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 59
+"GET /userprofile/login/ HTTP/1.1" 200 4609
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /ChatGPT_collector/ChatGPT_collector_page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py", line 10, in request_page
+    collection = ChatGPTRequestorModel.objects.using('mongo').all(using='default')
+TypeError: all() got an unexpected keyword argument 'using'
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 73307
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /ChatGPT_collector/ChatGPT_collector_page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py", line 10, in request_page
+    collection = ChatGPTRequestorModel.objects.all(using='default')
+TypeError: all() got an unexpected keyword argument 'using'
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 73261
+Internal Server Error: /ChatGPT_collector/ChatGPT_collector_page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py", line 10, in request_page
+    collection = ChatGPTRequestorModel.objects.all(using='default')
+TypeError: all() got an unexpected keyword argument 'using'
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 73261
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3314
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 59
+Watching for file changes with StatReloader
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3314
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3314
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3314
+"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+"GET /static/bootstrap/js/bootstrap.min.js.map HTTP/1.1" 200 176087
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3314
+"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+"GET /static/bootstrap/js/bootstrap.min.js.map HTTP/1.1" 200 176087
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3314
+"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+"GET /static/bootstrap/js/bootstrap.min.js.map HTTP/1.1" 200 176087
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 3088
+"GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+"GET /static/bootstrap/js/bootstrap.min.js.map HTTP/1.1" 200 176087
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 137
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\my_blog\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 672
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 1412
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 200 1516
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /ChatGPT_collector/request-create/ HTTP/1.1" 200 4366
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /ChatGPT_collector/request-create/ HTTP/1.1" 200 4366
+Internal Server Error: /ChatGPT_collector/request-create/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py", line 41, in request_create
+    request_post_form = ChatGPTRequestorModel(data=request.POST)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 501, in __init__
+    raise TypeError("%s() got an unexpected keyword argument '%s'" % (cls.__name__, kwarg))
+TypeError: ChatGPTRequestorModel() got an unexpected keyword argument 'data'
+"POST /ChatGPT_collector/request-create/ HTTP/1.1" 500 80828
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /ChatGPT_collector/request-create/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py", line 43, in request_create
+    if QueryPostForm.is_valid():
+TypeError: is_valid() missing 1 required positional argument: 'self'
+"POST /ChatGPT_collector/request-create/ HTTP/1.1" 500 74160
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+"GET /static/admin/css/login.css HTTP/1.1" 200 1233
+"GET /static/admin/css/base.css HTTP/1.1" 200 16378
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 17944
+"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 10231
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/add/ HTTP/1.1" 200 4653
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8518
+"GET /admin/jsi18n/ HTTP/1.1" 200 3223
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+"GET /static/admin/js/core.js HTTP/1.1" 200 7135
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+"GET /static/admin/js/actions.js HTTP/1.1" 200 6538
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 271751
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 8972
+Internal Server Error: /admin/ChatGPT_collector/chatgptrequestormodel/add/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: table ChatGPT_collector_chatgptrequestormodel has no column named api_key
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1634, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1561, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1088, in save_model
+    obj.save()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 741, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 779, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 870, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 908, in _do_insert
+    using=using, raw=raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 1186, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1332, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: table ChatGPT_collector_chatgptrequestormodel has no column named api_key
+"POST /admin/ChatGPT_collector/chatgptrequestormodel/add/ HTTP/1.1" 500 197878
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/add/ HTTP/1.1" 200 4653
+Internal Server Error: /admin/ChatGPT_collector/chatgptrequestormodel/add/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: table ChatGPT_collector_chatgptrequestormodel has no column named api_key
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1634, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1561, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1088, in save_model
+    obj.save()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 741, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 779, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 870, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 908, in _do_insert
+    using=using, raw=raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 1186, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1332, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: table ChatGPT_collector_chatgptrequestormodel has no column named api_key
+"POST /admin/ChatGPT_collector/chatgptrequestormodel/add/ HTTP/1.1" 500 197876
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/add/ HTTP/1.1" 200 4653
+"GET /admin/ HTTP/1.1" 200 10231
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\models.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/article/articlepost/add/ HTTP/1.1" 200 9395
+"GET /admin/jsi18n/ HTTP/1.1" 200 3223
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 7777
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 20274
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /admin/ HTTP/1.1" 200 10231
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/add/ HTTP/1.1" 200 4653
+"GET /admin/jsi18n/ HTTP/1.1" 200 3223
+Internal Server Error: /admin/ChatGPT_collector/chatgptrequestormodel/add/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: table ChatGPT_collector_chatgptrequestormodel has no column named api_key
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1634, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1561, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1088, in save_model
+    obj.save()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 741, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 779, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 870, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 908, in _do_insert
+    using=using, raw=raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 1186, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1332, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: table ChatGPT_collector_chatgptrequestormodel has no column named api_key
+"POST /admin/ChatGPT_collector/chatgptrequestormodel/add/ HTTP/1.1" 500 197833
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/add/ HTTP/1.1" 200 4653
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/add/ HTTP/1.1" 200 4648
+"GET /admin/jsi18n/ HTTP/1.1" 200 3223
+Internal Server Error: /admin/ChatGPT_collector/chatgptrequestormodel/add/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: table ChatGPT_collector_chatgptrequestormodel has no column named apikey
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1634, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1561, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1088, in save_model
+    obj.save()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 741, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 779, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 870, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 908, in _do_insert
+    using=using, raw=raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 1186, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1332, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: table ChatGPT_collector_chatgptrequestormodel has no column named apikey
+"POST /admin/ChatGPT_collector/chatgptrequestormodel/add/ HTTP/1.1" 500 197807
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/add/ HTTP/1.1" 200 4648
+"GET /admin/ HTTP/1.1" 200 10231
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 10231
+Internal Server Error: /admin/ChatGPT_collector/chatgptrequestormodel/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1672, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 744, in get_changelist_instance
+    sortable_by,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 82, in __init__
+    self.get_results(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 210, in get_results
+    result_count = paginator.count
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\paginator.py", line 91, in count
+    return c()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 392, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 504, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 489, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1097, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/ HTTP/1.1" 500 185052
+Watching for file changes with StatReloader
+Internal Server Error: /admin/ChatGPT_collector/chatgptrequestormodel/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1672, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 744, in get_changelist_instance
+    sortable_by,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 82, in __init__
+    self.get_results(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 210, in get_results
+    result_count = paginator.count
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\paginator.py", line 91, in count
+    return c()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 392, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 504, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 489, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1097, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/ HTTP/1.1" 500 185187
+"GET /admin/ HTTP/1.1" 200 10231
+"GET /admin/ HTTP/1.1" 200 10231
+"GET /admin/ HTTP/1.1" 200 10231
+"GET /admin/logout/ HTTP/1.1" 200 1211
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 1823
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 10231
+Internal Server Error: /admin/ChatGPT_collector/chatgptrequestormodel/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1672, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 744, in get_changelist_instance
+    sortable_by,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 82, in __init__
+    self.get_results(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 210, in get_results
+    result_count = paginator.count
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\paginator.py", line 91, in count
+    return c()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 392, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 504, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 489, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1097, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/ HTTP/1.1" 500 185052
+Watching for file changes with StatReloader
+Internal Server Error: /admin/ChatGPT_collector/chatgptrequestormodel/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1672, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 744, in get_changelist_instance
+    sortable_by,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 82, in __init__
+    self.get_results(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 210, in get_results
+    result_count = paginator.count
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\paginator.py", line 91, in count
+    return c()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 392, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 504, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 489, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1097, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/ HTTP/1.1" 500 185185
+"GET /admin/ HTTP/1.1" 200 10231
+Internal Server Error: /admin/ChatGPT_collector/chatgptrequestormodel/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1672, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 744, in get_changelist_instance
+    sortable_by,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 82, in __init__
+    self.get_results(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 210, in get_results
+    result_count = paginator.count
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\paginator.py", line 91, in count
+    return c()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 392, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 504, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 489, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1097, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/ HTTP/1.1" 500 185052
+"GET /admin/ HTTP/1.1" 200 10231
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 10231
+Internal Server Error: /admin/ChatGPT_collector/chatgptrequestormodel/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1672, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 744, in get_changelist_instance
+    sortable_by,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 82, in __init__
+    self.get_results(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 210, in get_results
+    result_count = paginator.count
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\paginator.py", line 91, in count
+    return c()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 392, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 504, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 489, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1097, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/ HTTP/1.1" 500 185052
+"GET /admin/ HTTP/1.1" 200 10231
+"GET /admin/auth/group/add/ HTTP/1.1" 200 9080
+"GET /admin/jsi18n/ HTTP/1.1" 200 3223
+"GET /static/admin/js/SelectBox.js HTTP/1.1" 200 5755
+"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 12322
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+"GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+"GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+"GET /admin/ HTTP/1.1" 200 10231
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 10231
+Internal Server Error: /admin/ChatGPT_collector/chatgptrequestormodel/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1672, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 744, in get_changelist_instance
+    sortable_by,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 82, in __init__
+    self.get_results(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 210, in get_results
+    result_count = paginator.count
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\paginator.py", line 91, in count
+    return c()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 392, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 504, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 489, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1097, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/ HTTP/1.1" 500 185052
+Watching for file changes with StatReloader
+Not Found: /ChatGPT_collector/
+"GET /ChatGPT_collector/ HTTP/1.1" 404 3212
+Internal Server Error: /ChatGPT_collector/ChatGPT_collector_page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py", line 27, in request_page
+    answer = process_data(payload, api_key)
+  File "E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\views.py", line 39, in process_data
+    top_p=1.0,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\openai\api_resources\completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\openai\api_resources\abstract\engine_api_resource.py", line 150, in create
+    api_key, api_base, api_type, api_version, organization, **params
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\openai\api_resources\abstract\engine_api_resource.py", line 111, in __prepare_create_request
+    organization=organization,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\openai\api_requestor.py", line 131, in __init__
+    self.api_key = key or util.default_api_key()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\openai\util.py", line 187, in default_api_key
+    "No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://onboard.openai.com for details, or email support@openai.com if you have any questions."
+openai.error.AuthenticationError: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://onboard.openai.com for details, or email support@openai.com if you have any questions.
+"GET /ChatGPT_collector/ChatGPT_collector_page/ HTTP/1.1" 500 101600
+"GET /admin/ HTTP/1.1" 200 10231
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/add/ HTTP/1.1" 200 4648
+"GET /admin/jsi18n/ HTTP/1.1" 200 3223
+Internal Server Error: /admin/ChatGPT_collector/chatgptrequestormodel/add/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1634, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1561, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1088, in save_model
+    obj.save()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 741, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 779, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 870, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 908, in _do_insert
+    using=using, raw=raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 1186, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1332, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: ChatGPT_collector_chatgptrequestormodel
+"POST /admin/ChatGPT_collector/chatgptrequestormodel/add/ HTTP/1.1" 500 197706
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\ChatGPT_collector\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /admin/ChatGPT_collector/chatgptrequestormodel/add/
+"GET /admin/ChatGPT_collector/chatgptrequestormodel/add/ HTTP/1.1" 404 5849
+"GET /admin/ HTTP/1.1" 200 10244
+"GET /admin/ HTTP/1.1" 200 10244
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/add/ HTTP/1.1" 200 4664
+"GET /admin/jsi18n/ HTTP/1.1" 200 3223
+Internal Server Error: /admin/chatGPT3_collector/chatgpt3requestormodel/add/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1634, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1561, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1088, in save_model
+    obj.save()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 741, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 779, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 870, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 908, in _do_insert
+    using=using, raw=raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 1186, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1332, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+"POST /admin/chatGPT3_collector/chatgpt3requestormodel/add/ HTTP/1.1" 500 197552
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/add/ HTTP/1.1" 200 4664
+Internal Server Error: /admin/chatGPT3_collector/chatgpt3requestormodel/add/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1634, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1561, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1088, in save_model
+    obj.save()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 741, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 779, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 870, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 908, in _do_insert
+    using=using, raw=raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 1186, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1332, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+"POST /admin/chatGPT3_collector/chatgpt3requestormodel/add/ HTTP/1.1" 500 197530
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/add/ HTTP/1.1" 200 4664
+Internal Server Error: /admin/chatGPT3_collector/chatgpt3requestormodel/add/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1634, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1561, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1088, in save_model
+    obj.save()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 741, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 779, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 870, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\base.py", line 908, in _do_insert
+    using=using, raw=raw)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 1186, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1332, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+"POST /admin/chatGPT3_collector/chatgpt3requestormodel/add/ HTTP/1.1" 500 197555
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/add/ HTTP/1.1" 200 4664
+Internal Server Error: /admin/chatGPT3_collector/chatgpt3requestormodel/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1672, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 744, in get_changelist_instance
+    sortable_by,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 82, in __init__
+    self.get_results(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 210, in get_results
+    result_count = paginator.count
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\paginator.py", line 91, in count
+    return c()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 392, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 504, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 489, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1097, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/ HTTP/1.1" 500 185190
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/add/ HTTP/1.1" 200 4664
+"GET /admin/chatGPT3_collector/ HTTP/1.1" 200 2657
+Internal Server Error: /admin/chatGPT3_collector/chatgpt3requestormodel/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1672, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 744, in get_changelist_instance
+    sortable_by,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 82, in __init__
+    self.get_results(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 210, in get_results
+    result_count = paginator.count
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\paginator.py", line 91, in count
+    return c()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 392, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 504, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 489, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1097, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/ HTTP/1.1" 500 185180
+"GET /admin/chatGPT3_collector/ HTTP/1.1" 200 2657
+Internal Server Error: /admin/chatGPT3_collector/chatgpt3requestormodel/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1672, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 744, in get_changelist_instance
+    sortable_by,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 82, in __init__
+    self.get_results(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 210, in get_results
+    result_count = paginator.count
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\paginator.py", line 91, in count
+    return c()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 392, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 504, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 489, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1097, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/ HTTP/1.1" 500 185163
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\models.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /admin/chatGPT3_collector/chatgpt3requestormodel/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1672, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 744, in get_changelist_instance
+    sortable_by,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 82, in __init__
+    self.get_results(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 210, in get_results
+    result_count = paginator.count
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\paginator.py", line 91, in count
+    return c()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 392, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 504, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 489, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1097, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/ HTTP/1.1" 500 185298
+"GET /admin/chatGPT3_collector/ HTTP/1.1" 200 2657
+Internal Server Error: /admin/chatGPT3_collector/chatgpt3requestormodel/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1672, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 744, in get_changelist_instance
+    sortable_by,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 82, in __init__
+    self.get_results(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 210, in get_results
+    result_count = paginator.count
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\paginator.py", line 91, in count
+    return c()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 392, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 504, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 489, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1097, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/ HTTP/1.1" 500 185163
+"GET /admin/chatGPT3_collector/ HTTP/1.1" 200 2657
+Watching for file changes with StatReloader
+Internal Server Error: /admin/chatGPT3_collector/chatgpt3requestormodel/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 1672, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\options.py", line 744, in get_changelist_instance
+    sortable_by,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 82, in __init__
+    self.get_results(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\admin\views\main.py", line 210, in get_results
+    result_count = paginator.count
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\paginator.py", line 91, in count
+    return c()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\query.py", line 392, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 504, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\query.py", line 489, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\models\sql\compiler.py", line 1097, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\db\backends\sqlite3\base.py", line 383, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: chatGPT3_collector_chatgpt3requestormodel
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/ HTTP/1.1" 500 185163
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\my_blog\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/chatGPT3_collector/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/chatGPT3_collector/ HTTP/1.1" 200 1861
+"POST /admin/login/?next=/admin/chatGPT3_collector/ HTTP/1.1" 200 2020
+"POST /admin/login/?next=/admin/chatGPT3_collector/ HTTP/1.1" 200 2020
+Watching for file changes with StatReloader
+"POST /admin/login/?next=/admin/chatGPT3_collector/ HTTP/1.1" 302 0
+"GET /admin/chatGPT3_collector/ HTTP/1.1" 200 2657
+"GET /admin/ HTTP/1.1" 200 7172
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/ HTTP/1.1" 200 3351
+"GET /admin/jsi18n/ HTTP/1.1" 200 3223
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/chatGPT3_collector/ HTTP/1.1" 200 2657
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/add/ HTTP/1.1" 200 4664
+"GET /admin/jsi18n/ HTTP/1.1" 200 3223
+"POST /admin/chatGPT3_collector/chatgpt3requestormodel/add/ HTTP/1.1" 302 0
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/ HTTP/1.1" 200 4806
+"GET /admin/jsi18n/ HTTP/1.1" 200 3223
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/ HTTP/1.1" 200 4579
+"GET /admin/jsi18n/ HTTP/1.1" 200 3223
+Not Found: /admin/chatGPT3_collector/chatGPT3-collector-page
+"GET /admin/chatGPT3_collector/chatGPT3-collector-page HTTP/1.1" 404 5843
+"GET /chatGPT3_collector/chatGPT3-collector-page HTTP/1.1" 301 0
+Internal Server Error: /chatGPT3_collector/chatGPT3-collector-page/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py", line 25, in request_page
+    answer = process_data(payload, api_key)
+  File "E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py", line 37, in process_data
+    top_p=1.0,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\openai\api_resources\completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\openai\api_resources\abstract\engine_api_resource.py", line 150, in create
+    api_key, api_base, api_type, api_version, organization, **params
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\openai\api_resources\abstract\engine_api_resource.py", line 111, in __prepare_create_request
+    organization=organization,
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\openai\api_requestor.py", line 131, in __init__
+    self.api_key = key or util.default_api_key()
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\openai\util.py", line 187, in default_api_key
+    "No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://onboard.openai.com for details, or email support@openai.com if you have any questions."
+openai.error.AuthenticationError: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://onboard.openai.com for details, or email support@openai.com if you have any questions.
+"GET /chatGPT3_collector/chatGPT3-collector-page/ HTTP/1.1" 500 101615
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /chatGPT3_collector/request-create HTTP/1.1" 301 0
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 6056
+"GET /chatGPT3_collector/chatGPT3-collector-page/ HTTP/1.1" 200 3246
+Internal Server Error: /chatGPT3_collector/request-create/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py", line 49, in request_create
+    if QueryPostForm.is_valid():
+TypeError: is_valid() missing 1 required positional argument: 'self'
+"POST /chatGPT3_collector/request-create/ HTTP/1.1" 500 74328
+"GET /admin/chatGPT3_collector/chatgpt3requestormodel/ HTTP/1.1" 200 4579
+"GET /admin/jsi18n/ HTTP/1.1" 200 3223
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 6065
+Internal Server Error: /chatGPT3_collector/request-create/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py", line 49, in request_create
+    if QueryPostForm.is_valid():
+TypeError: is_valid() missing 1 required positional argument: 'self'
+"POST /chatGPT3_collector/request-create/ HTTP/1.1" 500 74342
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /chatGPT3_collector/request-create/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py", line 53, in request_create
+    message = request_post_form.cleaned_data['message']
+KeyError: 'message'
+"POST /chatGPT3_collector/request-create/ HTTP/1.1" 500 74716
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 6065
+Internal Server Error: /chatGPT3_collector/request-create/
+Traceback (most recent call last):
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LTY\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py", line 53, in request_create
+    message = request_post_form.cleaned_data['message']
+KeyError: 'message'
+"POST /chatGPT3_collector/request-create/ HTTP/1.1" 500 74716
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /chatGPT3_collector/request-create/ HTTP/1.1" 200 775
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 6065
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 6065
+"POST /chatGPT3_collector/request-create/ HTTP/1.1" 200 797
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 6065
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\BackendDevelopment\Projects\MyBlog\MyBlogProject\chatGPT3_collector\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /chatGPT3_collector/request-create/ HTTP/1.1" 200 5904
+"POST /chatGPT3_collector/request-create/ HTTP/1.1" 200 5626
+"POST /chatGPT3_collector/request-create/ HTTP/1.1" 200 3477
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 6037
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3256
+"GET /article/article-list/ HTTP/1.1" 200 6377
+"GET /article/article-create/ HTTP/1.1" 200 7061
+"POST /article/article-create/ HTTP/1.1" 302 0
+"GET /article/article-list/ HTTP/1.1" 200 7645
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3552
+"GET /article/article-list/ HTTP/1.1" 200 7645
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3546
+"GET /article/article-list/ HTTP/1.1" 200 7645
+"GET /article/article-list/ HTTP/1.1" 200 7645
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3559
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3559
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3559
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3559
+"POST /chatGPT3_collector/request-create/ HTTP/1.1" 200 3070
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3559
+"POST /chatGPT3_collector/request-create/ HTTP/1.1" 200 3140
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3559
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3632
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3594
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3596
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3613
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3595
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3604
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3638
+"POST /chatGPT3_collector/request-create/ HTTP/1.1" 200 2965
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3644
+"POST /chatGPT3_collector/request-create/ HTTP/1.1" 200 3071
+"GET /chatGPT3_collector/request-create/ HTTP/1.1" 200 3644

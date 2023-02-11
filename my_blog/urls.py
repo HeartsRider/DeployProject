@@ -28,5 +28,6 @@ urlpatterns = [
     path('comment/', include('comment.urls', namespace='comment')),
     path('inbox/notifications/', include(notifications.urls, namespace='notifications')),
     path('notice/', include('notice.urls', namespace='notice')),
+    path('chatGPT3_collector/', include('chatGPT3_collector.urls', namespace='chatGPT3_collector')),
 ]
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
